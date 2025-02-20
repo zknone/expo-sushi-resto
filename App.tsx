@@ -1,4 +1,4 @@
-import { View, SafeAreaView, Dimensions } from "react-native";
+import { SafeAreaView } from "react-native";
 import { Provider } from "react-redux";
 import store from "./redux/store/store";
 import { AssortmentList } from "./components/assortment-list";
